@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m B-tech 3rd Year IT Student
+I m B-tech Final Year IT Student
 
 
 ## 🌐 Socials:
