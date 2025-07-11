@@ -204,14 +204,6 @@ const jay = {
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/jayjaisswal/jayjaisswal/blob/output/github-contribution-grid-snake.svg)
-
-
-
----
-
 ## 📈 Profile Views
 
 <div align="center">
