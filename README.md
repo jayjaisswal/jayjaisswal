@@ -204,11 +204,12 @@ const jay = {
 
 ---
 
-## 🎵 Spotify Playing
+## 📅 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" width="350" />
+  <img src="https://ghchart.rshah.org/jayjaisswal" alt="GitHub Contributions Chart" />
 </div>
+
 
 ---
 
