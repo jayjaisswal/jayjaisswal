@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there! I'm **Jay Kumar**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Cloud+Computing+%26+DevOps;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;DevOps;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,9 +16,9 @@
 
 ```javascript
 const jay = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "C++", "Java", "Python"],
-    askMeAbout: ["Web Dev", "Cloud", "DevOps", "MERN Stack"],
+    pronouns: "Jay",
+    code: ["JavaScript", "C++", "Java"],
+    askMeAbout: ["Web Dev", "Cloud(just about to Start)", "DevOps", "MERN Stack"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
@@ -40,11 +40,11 @@ const jay = {
 
 ## 🎯 Current Status
 
-<div align="center">
+<div align="left">
   
 🎓 **Final Year B.Tech IT Student**  
 💻 **MERN Stack Developer**  
-☁️ **Cloud Computing & DevOps Enthusiast**  
+☁️ **DevOps Enthusiast**  
 🚀 **Always Learning & Building**
 
 </div>
@@ -95,16 +95,17 @@ const jay = {
 ### 🌐 SmartStudy
 **Full-Stack E-Learning Platform**
 - 🎥 Video-based course system
-- 💳 Razorpay payment integration
+- 💳 payment integration
 - 👨‍🏫 Instructor dashboard
 - 💬 Live chat feature
 - 🎨 Modern UI with React & Tailwind
+- Currently trying to Integrate Live video classes Feature
 
 **Tech Stack:** MERN, Tailwind, Vite  
 **Deployment:** Vercel + Render
 
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjaisswal/SmartStudy)
-
+[![Live Site](https://img.shields.io/badge/Visit-Live-green?style=for-the-badge&logo=vercel)](https://padhlo-india.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjaisswal/MERN-Smart-Education-Platform)
 </td>
 <td width="50%">
 
@@ -119,8 +120,8 @@ const jay = {
 **Tech Stack:** MERN, MongoDB  
 **Team Project**
 
+[![Live Site](https://img.shields.io/badge/Visit-Live-green?style=for-the-badge&logo=vercel)](https://hosteller-homies-two.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjaisswal/HostellerHomies)
-
 </td>
 </tr>
 <tr>
@@ -136,8 +137,8 @@ const jay = {
 
 **Tech Stack:** WebRTC, Socket.IO
 
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjaisswal/video-conferencing-app)
-
+[![Live Site](https://img.shields.io/badge/Visit-Live-green?style=for-the-badge&logo=vercel)](https://video-conference-beige.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjaisswal/video-conference)
 </td>
 <td width="50%">
 
@@ -219,7 +220,7 @@ const jay = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - 🚀 **Launch 3 major projects**
 - ☁️ **Master AWS Cloud Services**
