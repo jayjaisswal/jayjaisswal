@@ -204,11 +204,10 @@ const jay = {
 
 ---
 
-## 📅 GitHub Contribution Calendar
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/jayjaisswal" alt="GitHub Contributions Chart" />
-</div>
+![snake gif](https://github.com/jayjaisswal/jayjaisswal/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
